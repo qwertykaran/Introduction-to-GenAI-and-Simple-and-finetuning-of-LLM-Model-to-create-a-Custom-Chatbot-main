@@ -48,7 +48,7 @@ pip install -r requirements.txt
 python app/chatbot.py
 
 ## 📁 Project Structure
-```
+
 ```bash
 ├── data/                 # Input dataset
 ├── models/               # Saved fine-tuned models
