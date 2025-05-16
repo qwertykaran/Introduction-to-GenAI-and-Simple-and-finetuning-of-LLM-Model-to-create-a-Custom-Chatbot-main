@@ -46,3 +46,14 @@ pip install -r requirements.txt
 
 # Launch the chatbot app or notebook
 python app/chatbot.py
+
+## 📁 Project Structure
+```
+```bash
+├── data/                 # Input dataset
+├── models/               # Saved fine-tuned models
+├── notebook/             # Jupyter notebooks used for training
+├── app/                  # Chatbot interface and deployment
+├── README.md
+└── requirements.txt
+
