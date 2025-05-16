@@ -41,7 +41,9 @@ pip install -r requirements.txt
 # Launch the chatbot app or notebook
 python app/chatbot.py
 ```
+---
 ##💡 Key Features
+
 Fine-tunes a transformer-based LLM with custom dataset
 
 Runs efficiently on CPU hardware
