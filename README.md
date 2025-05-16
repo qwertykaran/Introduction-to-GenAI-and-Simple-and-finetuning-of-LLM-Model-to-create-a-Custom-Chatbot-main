@@ -12,7 +12,13 @@ This project was developed as part of the **Intel® Unnati Industrial Training 2
 - 📈 Demonstrates end-to-end pipeline from data to deployment.
 
 ---
+## 💡 Key Features
 
+- Fine-tunes a transformer-based LLM with custom dataset  
+- Runs efficiently on CPU hardware  
+- Easily extendable with a user interface  
+- Designed for quick experimentation and learning
+---
 ## 🛠️ Tech Stack
 
 - Python
