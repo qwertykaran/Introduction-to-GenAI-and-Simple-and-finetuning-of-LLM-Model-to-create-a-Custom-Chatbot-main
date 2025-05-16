@@ -61,3 +61,24 @@ python app/chatbot.py
 ├── README.md
 └── requirements.txt
 
+🧪 Outcome
+Learned CPU-based inference techniques
+
+Implemented a real chatbot with domain-specific tuning
+
+Gained industry-level exposure under Intel guidance
+
+📄 License
+This project is licensed under the MIT License.
+
+
+🙌 Acknowledgements
+Intel India for the mentorship and training opportunity
+
+Parul University for academic support
+
+Hugging Face & open-source communities
+
+
+🔗 Connect with Me
+Made with ❤️ by Karan Soni
