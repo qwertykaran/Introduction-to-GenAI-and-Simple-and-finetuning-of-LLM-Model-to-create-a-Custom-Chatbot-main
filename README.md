@@ -36,7 +36,7 @@ You can view or download the certificate and related resources here:
 ---
 ## 🚀 Getting Started
 
-```bash
+```
 # Clone the repo
 git clone https://github.com/qwertykaran/Introduction-to-GenAI-and-Simple-and-finetuning-of-LLM-Model-to-create-a-Custom-Chatbot-main.git
 cd Introduction-to-GenAI-and-Simple-and-finetuning-of-LLM-Model-to-create-a-Custom-Chatbot-main
@@ -50,16 +50,17 @@ pip install -r requirements.txt
 
 # Launch the chatbot app or notebook
 python app/chatbot.py
-
+```
 ## 📁 Project Structure
 
-```bash
 ├── data/                 # Input dataset
 ├── models/               # Saved fine-tuned models
 ├── notebook/             # Jupyter notebooks used for training
 ├── app/                  # Chatbot interface and deployment
 ├── README.md
 └── requirements.txt
+
+---
 
 🧪 Outcome
 Learned CPU-based inference techniques
@@ -71,6 +72,7 @@ Gained industry-level exposure under Intel guidance
 📄 License
 This project is licensed under the MIT License.
 
+---
 
 🙌 Acknowledgements
 Intel India for the mentorship and training opportunity
