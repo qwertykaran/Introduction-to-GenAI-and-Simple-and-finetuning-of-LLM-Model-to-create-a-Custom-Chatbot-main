@@ -82,7 +82,7 @@ This project is licensed under the MIT License.
 
 ## 🎓 Certificate & Resources
 
-You can view or download the certificate and related resources here:  
+You can view the certificate and related resources here:  
 [Intel® Unnati Industrial Training Certificate](https://drive.google.com/file/d/10FFmDTDMJVXHAhu57LemLZpmD-7Qj5UD/view?usp=sharing)
 
 ---
