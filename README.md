@@ -29,7 +29,11 @@ This project was developed as part of the **Intel® Unnati Industrial Training 2
 - Gradio (optional frontend)
 
 ---
+## 🎓 Certificate & Resources
 
+You can view or download the certificate and related resources here:  
+[Intel® Unnati Industrial Training Certificate](https://drive.google.com/file/d/10FFmDTDMJVXHAhu57LemLZpmD-7Qj5UD/view?usp=sharing)
+---
 ## 🚀 Getting Started
 
 ```bash
