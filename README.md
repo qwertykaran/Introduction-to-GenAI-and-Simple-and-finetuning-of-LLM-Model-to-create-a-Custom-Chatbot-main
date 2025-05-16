@@ -41,3 +41,57 @@ pip install -r requirements.txt
 # Launch the chatbot app or notebook
 python app/chatbot.py
 ```
+##💡 Key Features
+Fine-tunes a transformer-based LLM with custom dataset
+
+Runs efficiently on CPU hardware
+
+Easily extendable with a user interface
+
+Designed for quick experimentation and learning
+
+---
+## 📁 Project Structure
+```
+├── data/         # dataset
+├── models/       # fine-tuned models
+├── notebook/     # training notebooks
+├── app/          # chatbot code
+├── README.md
+└── requirements.txt
+```
+
+## 🧪 Outcome
+Learned CPU-based inference techniques
+
+Implemented a real chatbot with domain-specific tuning
+
+Gained industry-level exposure under Intel guidance
+---
+📄 License
+This project is licensed under the MIT License.
+
+## 🎓 Certificate & Resources
+
+You can view or download the certificate and related resources here:  
+[Intel® Unnati Industrial Training Certificate](https://drive.google.com/file/d/10FFmDTDMJVXHAhu57LemLZpmD-7Qj5UD/view?usp=sharing)
+
+
+
+
+## 🙌 Acknowledgements
+Intel India for the mentorship and training opportunity
+Hugging Face & open-source communities
+
+## 🔗 Connect with Me
+Made with ❤️ by Karan Soni
+
+
+
+
+
+
+
+
+
+
